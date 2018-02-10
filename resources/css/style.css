@@ -1,0 +1,16 @@
+.background {
+    background-color: black;
+    text-align: center;
+}
+
+
+
+
+
+#main-header {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center; 
+}
