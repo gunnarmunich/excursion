@@ -4,7 +4,6 @@
     text-align: center;
 }
 
-
 #main-header {
     font-family: Verdana;
     font-weight: normal;
@@ -32,7 +31,14 @@
 
 #slogan {
     font-family: Verdana;
-    font-size: 21;
+    font-size: 21px;
     color: gray;
     text-align: center;
+}
+
+#copyright {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
 }
